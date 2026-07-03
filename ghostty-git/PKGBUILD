@@ -6,7 +6,7 @@
 _pkgbase=ghostty
 pkgname=($_pkgbase-git $_pkgbase-shell-integration-git $_pkgbase-terminfo-git)
 pkgrel=1
-pkgver=1.3.1.r1196.gc22df09
+pkgver=1.3.1.r1209.gd560c64
 pkgdesc="Fast, native, feature-rich terminal emulator pushing modern features"
 arch=(x86_64 aarch64 i686)
 url="https://github.com/ghostty-org/$_pkgbase"
