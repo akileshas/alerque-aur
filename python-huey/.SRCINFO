@@ -1,6 +1,6 @@
 pkgbase = python-huey
 	pkgdesc = huey, a little task queue
-	pkgver = 3.0.3
+	pkgver = 3.1.1
 	pkgrel = 1
 	url = https://github.com/coleifer/huey
 	arch = any
@@ -13,7 +13,7 @@ pkgbase = python-huey
 	makedepends = python-setuptools
 	depends = python
 	optdepends = python-redis
-	source = https://github.com/coleifer/huey/archive/3.0.3/huey-3.0.3.tar.gz
-	sha256sums = 5694fc2d46b1d1481728a7df3dd5b36c7a10841bce8d72acd1597fd94339e899
+	source = https://github.com/coleifer/huey/archive/3.1.1/huey-3.1.1.tar.gz
+	sha256sums = 356dcb1c0c981e3f03b3382ff5d5fab84235bd06d3b92c8d8e519e014fe8f102
 
 pkgname = python-huey
