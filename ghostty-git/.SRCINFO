@@ -45,12 +45,12 @@ pkgname = ghostty-git
 
 pkgname = ghostty-shell-integration-git
 	pkgdesc = Shell integration scripts for ghostty
-	depends = 
+	depends =
 	provides = ghostty-shell-integration=1.1.2.r1185.gd0f116d
 	conflicts = ghostty-shell-integration
 
 pkgname = ghostty-terminfo-git
 	pkgdesc = Terminfo for ghostty
-	depends = 
+	depends =
 	provides = ghostty-terminfo=1.1.2.r1185.gd0f116d
 	conflicts = ghostty-terminfo
